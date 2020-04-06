@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327478583761",
+    "firebase_url": "https://testpust-efcc4.firebaseio.com",
+    "project_id": "testpust-efcc4",
+    "storage_bucket": "testpust-efcc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327478583761:android:e8d14c9626249ca8e9c0f0",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327478583761-8gbpnad4e39hh7m9c81etunh9fjk7u2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUbZ7ltV4KEn1-iY2AX9DBSpOnEQ0S0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327478583761-8gbpnad4e39hh7m9c81etunh9fjk7u2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
